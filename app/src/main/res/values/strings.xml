@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HighwayTransactions</string>
+    <string name="appbar_title">E-matrica</string>
+    <string name="confirm_order_title">Vásárlás megerősítése</string>
+    <string name="plate_num_label">Rendszám</string>
+    <string name="vignette_type_label">Matrica típusa</string>
+    <string name="total_price_label">Fizetendő összeg</string>
+    <string name="county_vignettes_title">Éves vármegyei matricák</string>
+    <string name="county_vignette_type">Éves vármegyei</string>
+    <string name="country_vignette_type">Országos</string>
+    <string name="country_vignettes_title">Országos matricák</string>
+    <string name="proceed_btn">Tovább</string>
+    <string name="cancel_btn">Mégsem</string>
+    <string name="trx_fee_label">Rendszerhasználati díj</string>
+    <string name="purchase_btn">Vásárlás</string>
+</resources>
